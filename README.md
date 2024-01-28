@@ -1,2 +1,2 @@
 # A-Command-Line-Based-Task-Management-System
-# A-Command-Line-Based-Task-Management-System, PolyU Object-Oriented Programming Project Source Code, Fall 2023
+A command-line-based task management system, PolyU Object-Oriented Programming project source code, Fall 2023
